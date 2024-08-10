@@ -8,21 +8,21 @@ enable                         = 1
 
 
 [beep]
-enable                         = 0
+enable                         = 1
 
 
 [target]
-extruder                       = 220
-heaterbed                      = 0
-hot                            = 0
+extruder                       = 245
+heaterbed                      = 100
+hot                            = 50
 
 
 [babystep]
-value                          = 0.000
+value                          = -1.828
 
 
 [total]
-time                           = 3078
+time                           = 6483
 
 
 [oobe]
